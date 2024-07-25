@@ -11,7 +11,7 @@ I'm Furkan, a Junior Software Developer. I'm passionate about Programming!
 - ⚡ Fun fact: ADHD and AC/DC
 
 ### Skills
-Java CSS HTML JSON Docker PostgreSQL Cockroach GraphQL REST Spring
+Java CSS HTML JSON Docker PostgreSQL Cockroach GraphQL REST Spring MongoDB
 
 <!--
 ### Projects
