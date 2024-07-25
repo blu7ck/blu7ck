@@ -1,16 +1,25 @@
 ## Hi there 👋
+I'm Furkan, a Junior Software Developer. I'm passionate about Programming!
+
+
+- 🔭 I’m currently working on Advanced Level Java Programming
+- 🌱 I’m currently learning SwingUI, gRPC, Node.Js, Kafka
+
+- 🤔 I’m looking for more help with roadmap.
+
+
+- ⚡ Fun fact: ADHD and AC/DC
+
+### Skills
+Java CSS HTML JSON Docker PostgreSQL Cockroach GraphQL REST Spring
 
 <!--
-**blu7ck/blu7ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Projects
+* [Project 1]: [Link to repository]
+* [Project 2]: [Link to repository]
 -->
+### Contact
+💬 You can ask me about anything, anytime!
+* Email: blu4ck@outlook.com
+* [LinkedIn](https://www.linkedin.com/in/furkan-akba%C5%9F-a4a492312/)
+* [Instagram](https://www.instagram.com/blu4ck/)
