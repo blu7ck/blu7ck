@@ -1,23 +1,6 @@
-## Hi there 👋
-I'm Furkan, a Junior Software Developer. I'm passionate about Programming!
-
-
-- 🔭 I’m currently working on Advanced Level Java Programming
-- 🌱 I’m currently learning SwingUI, gRPC, Node.Js, Kafka
-
-- 🤔 I’m looking for more help with roadmap.
-
-
-- ⚡ Fun fact: ADHD and AC/DC
-
 ### Skills
 Java CSS HTML JSON Docker PostgreSQL Cockroach GraphQL REST Spring MongoDB
 
-<!--
-### Projects
-* [Project 1]: [Link to repository]
-* [Project 2]: [Link to repository]
--->
 ### Contact
 💬 You can ask me about anything, anytime!
 * blu4ck@outlook.com
