@@ -1,5 +1,5 @@
 ### Skills
-Java CSS HTML JSON Docker PostgreSQL Cockroach GraphQL REST Spring MongoDB
+Java CSS HTML JSON Docker RDBMS NoSQL GraphQL REST Spring
 
 ### Contact
 💬 You can ask me about anything, anytime!
