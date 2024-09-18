@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 📝 I regularly write articles on [https://wwww.medium.com/@blu4ck](https://wwww.medium.com/@blu4ck)
+- 📝 I regularly write articles on [https://medium.com/@blu4ck](https://medium.com/@blu4ck)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
