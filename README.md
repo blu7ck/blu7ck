@@ -6,7 +6,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@blu4ck)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">feel free to contact with me:</h3>
 [Links](https://linktr.ee/blu4ck)
 
 <h3 align="left">Languages and Tools:</h3>
